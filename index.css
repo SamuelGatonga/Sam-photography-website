@@ -64,3 +64,10 @@ img {
     font-family: fantasy;
     font-style: oblique;
 }
+.Head {
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 400;
+}
