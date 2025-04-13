@@ -56,5 +56,11 @@ img {
     text-align: center;
     font-size: x-large;
     font-style: oblique;
+}
+.Query{
+    margin-top: 80px;
+    text-align: center;
+    font-size: x-large;
     font-family: fantasy;
+    font-style: oblique;
 }
